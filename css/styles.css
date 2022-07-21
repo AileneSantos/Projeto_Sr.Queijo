@@ -1,0 +1,14 @@
+.navbar-brand{
+    font-family: 'Niconne', sans-serif;
+    font-size: 40px;
+    color: chocolate;
+}
+.nav-link{
+    color: chocolate;
+}
+.container-fluid{
+    padding: 0;
+}
+.carousel-item{
+    height: 90vh;
+}
